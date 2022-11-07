@@ -10,7 +10,7 @@ Below is the ERD for this data:
 ![image](https://user-images.githubusercontent.com/58874718/200242708-0f11f55b-4f8b-4e73-a9b7-4f8306d1c55a.png)
 
 # Table Explanations
-## Genre
+#### Genre
 Short list of game genres, such as Action or Racing.
 
 ## Game
