@@ -10,28 +10,28 @@ Below is the ERD for this data:
 ![image](https://user-images.githubusercontent.com/58874718/200242708-0f11f55b-4f8b-4e73-a9b7-4f8306d1c55a.png)
 
 # Table Explanations
-#### Genre
+### Genre
 Short list of game genres, such as Action or Racing.
 
-## Game
+### Game
 A list of all of the games in the database. Contains title and genre_id to link to the genre table. There is no concept of a series in this data
 
-## Publisher
+### Publisher
 Studios/companies that make the game
 
-## Game_Publisher
+### Game_Publisher
 This is a joining table that defines the games and their publishers, because in the source data, a game can have many publishers.
 
-## Platform
+### Platform
 A list of the different gaming platforms: PC, XBox, PS,...
 
-## Game_Platform
+### Game_Platform
 This table links the games, publishers, and the platform. It also includes release year since games can be release by different publishers on different platforms in different years.
 
-## Region
+### Region
 List of 4 regions: North America, Europe, Japan, and Others.
 
-## Region_Sales
+### Region_Sales
 All sales made for a unique combination of game, publisher and platform (aka game_platform_id) in each region. **The number is in million**
 
 # Database Notes
