@@ -1,1 +1,1 @@
-This folder consists of SQL scripts to demonstrate its versatility on many types of datasets and analyses.
+This folder consists my SQL scripts on some datasets and analyses.
