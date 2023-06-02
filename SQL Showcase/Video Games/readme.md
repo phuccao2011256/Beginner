@@ -1,8 +1,6 @@
 In this project, I write SQL Server queries to clean and get information from video games database. 
 My purpose is less on full analysis but more on showing how I write queries for different questions.
 
-[video games](#game_publisher)
-
 # Video Games Database
 This database stores information about video games that have had the most sales of all time. It captures video game sales in North America, Europe, Japan, and other regions grouped as “Other”. It has games from various platforms and publishers
 
